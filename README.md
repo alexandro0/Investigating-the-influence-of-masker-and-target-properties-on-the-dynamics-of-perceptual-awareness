@@ -5,8 +5,7 @@ Veyrié, A. ; Noreña, A. ; Sarrazin, J.C. and Pezard, L. Investigating the infl
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282885
 
-@article{<br />
-  veyrie2023investigating,<br />
+@article{veyrie2023investigating,<br />
   title={Investigating the influence of masker and target properties on the dynamics of perceptual awareness under informational masking},<br />
   author={Veyri{\'e}, Alexandre and Nore{\~n}a, Arnaud and Sarrazin, Jean-Christophe and Pezard, Laurent},<br />
   journal={Plos one},<br />
